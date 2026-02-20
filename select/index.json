@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Sweet Love with 光永亮太",
+  "base_artist": "Tiara",
+  "createdAt": "2026-02-20T17:07:23.651772Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Love with 光永亮太",
+      "artist": "Tiara",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Love_with_光永亮太_Tiara.txt"
+    }
+  ]
+}
